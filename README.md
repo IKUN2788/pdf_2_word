@@ -1,3 +1,5 @@
+<img width="602" height="489" alt="image" src="https://github.com/user-attachments/assets/e07cfac6-de76-437e-a875-a47e765e8d8a" />
+
 # PDF 转 Word 神器
 
 本项目是一个基于 PyQt5 的桌面应用，支持将 PDF 批量转换为 Word（`.docx`）。支持拖拽添加、文件夹扫描、进度条展示，转换结果与原文件同目录保存。
